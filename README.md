@@ -1,4 +1,6 @@
-# stateful_widget
+# Exercício Final: Stateful Widget
+
+# Calculador de Média
 
 A new Flutter project.
 
